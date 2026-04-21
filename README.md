@@ -63,7 +63,7 @@ Make sure you have Python 3.9+ installed and a valid **Google Gemini API Key**.
 
 You can try the live version of the application hosted on Streamlit Community Cloud here:
 
-👉 **[Launch Election Intelligence Assistant](https://election-intelligence-assistant.streamlit.app/)** 
+👉 **[Launch Election Intelligence Assistant](https://election-assistant.streamlit.app/)** 
 
 *(Note: Replace the link above with your actual deployed Streamlit Community Cloud URL once deployed).*
 
@@ -71,7 +71,7 @@ You can try the live version of the application hosted on Streamlit Community Cl
 
 ## 🛠️ Tech Stack
 
-*   **Frontend & Framework:** [Streamlit](https://election-assistant.streamlit.app/)
+*   **Frontend & Framework:** [Streamlit](https://streamlit.io/)
 *   **AI Engine:** [Google Generative AI (Gemini 2.5 Flash)](https://ai.google.dev/)
 *   **Styling:** Custom injected HTML & CSS (Animations, Dark Theme, Flexbox)
 *   **Language:** Python 3
