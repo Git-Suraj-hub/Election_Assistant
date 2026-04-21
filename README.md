@@ -71,7 +71,7 @@ You can try the live version of the application hosted on Streamlit Community Cl
 
 ## 🛠️ Tech Stack
 
-*   **Frontend & Framework:** [Streamlit](https://streamlit.io/)
+*   **Frontend & Framework:** [Streamlit](https://election-assistant.streamlit.app/)
 *   **AI Engine:** [Google Generative AI (Gemini 2.5 Flash)](https://ai.google.dev/)
 *   **Styling:** Custom injected HTML & CSS (Animations, Dark Theme, Flexbox)
 *   **Language:** Python 3
